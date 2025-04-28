@@ -1,5 +1,12 @@
 # 🛠️ Ambiente Docker Local para APIs Yii2 Basic
 
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PHP](https://img.shields.io/badge/php-8.4-777BB4.svg?style=flat-square)](https://www.php.net/)
+[![Nginx](https://img.shields.io/badge/nginx-1.20-009639.svg?style=flat-square)](https://nginx.org/)
+[![MySQL](https://img.shields.io/badge/mysql-5.7-4479A1.svg?style=flat-square)](https://www.mysql.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success)
+
 ## 🎯 Objetivo
 Este proyecto proporciona un entorno de desarrollo local utilizando Docker para alojar APIs creadas en Yii2 Basic.  
 La configuración incluye contenedores de Nginx, PHP-FPM 8.4 y MySQL 5.7, trabajando en una red privada con IPs locales fijas para simular entornos de producción de manera realista.
