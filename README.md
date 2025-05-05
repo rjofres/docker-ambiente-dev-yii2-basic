@@ -150,9 +150,18 @@ Estos se usarán en la configuración de Nginx para servir el sitio a través de
 ## 🔍 Acceso
 API (HTTPS): https://caminodeldev.loc:29410
 
-## 📹 Video del tutorial
-Puedes seguir un paso a paso completo en el siguiente video:
+## 📹 Videos del tutorial
 
-[![Ver el tutorial en YouTube](https://img.youtube.com/vi/odcWVBGl2rg/hqdefault.jpg)](https://www.youtube.com/watch?v=odcWVBGl2rg)
+Sigue el paso a paso completo en esta serie de videos:
 
-> 🔗 [https://www.youtube.com/watch?v=odcWVBGl2rg](https://www.youtube.com/watch?v=odcWVBGl2rg)
+### 🎥 Parte 1: 🚀 Ambiente Docker PHP (Yii2) + Nginx + MySQL con IPs y Dominios Locales 🔧 | ¡Entorno PRO en minutos!
+
+[![Ver Parte 1 en YouTube](https://img.youtube.com/vi/odcWVBGl2rg/hqdefault.jpg)](https://www.youtube.com/watch?v=odcWVBGl2rg)  
+🔗 [https://www.youtube.com/watch?v=odcWVBGl2rg](https://www.youtube.com/watch?v=odcWVBGl2rg)
+
+---
+
+### 🎥 Parte 2: 🔐 Configura tu API (Yii2) + SSL LOCAL con Docker como un PRO 🚀 | HTTPS + Nginx + PHP + MySQL 🔧
+
+[![Ver Parte 2 en YouTube](https://img.youtube.com/vi/IdKbcZxE5fA/hqdefault.jpg)](https://www.youtube.com/watch?v=IdKbcZxE5fA)  
+🔗 [https://www.youtube.com/watch?v=IdKbcZxE5fA](https://www.youtube.com/watch?v=IdKbcZxE5fA)
